@@ -1,0 +1,196 @@
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.runtime.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.endpoints.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.exe
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.deps.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.runtimeconfig.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfoInputs.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfo.cs
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.csproj.CoreCompileInputs.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cs
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\bundle\IntroduccionRazor_ASPNet.styles.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\projectbundle\IntroduccionRazor_ASPNet.bundle.scp.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thpmz3kaxo-b9sayid5wm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\p8ulu5sozx-61n19gt1b8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f3zzunwlx6-xtxxf3hu2r.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\0bhvv2ykru-bqjiyaj88i.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ai7v7q2nqx-c2jlpeoesf.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ufqsej0jpd-erw9l3u2r3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\spbrslgx9s-aexeepp0ev.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gbqtkv45k5-d7shbmvgxk.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f80pntxlft-ausgxo2sd3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\io6r2opr8l-k8d9w2qqmf.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3d435ng3p4-cosvhxvwiu.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\s8se4ftsd0-ub07r2b239.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vxd0a3vdzo-fvhpjtyr6v.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\hxf8hk5ahn-b7pk76d08c.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\dxzb4rsh4m-fsbi9cje9m.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\a69nac6mnp-rzd6atqjts.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\qhjyj6p3ff-ee0r1s7dh0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4lzt0go8zx-dxx9fxp4il.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pq11nnhm83-jd9uben2k1.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\eg7mipmkma-khv3u5hwcm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cgvfr3i0qu-r4e9w2rdcm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\xdmdeoauyx-lcd1t2u6c8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fau20yg856-c2oey78nd0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\8bk50zeg9w-tdbxkamptv.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\9rhq3fxgf3-j5mq2jizvt.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gg21ghcl1a-06098lyss8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fhepagenvz-nvvlpmu67g.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bvbyshbigl-s35ty4nyc5.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\oe0trt5kd8-pj5nd1wqec.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3n0wz3gmwz-46ein0sx1k.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\aq1tkx2w0m-v0zj4ognzu.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cn8dddjwox-37tfw0ft22.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\5c5wc20vli-hrwsygsryq.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\jwqdwt2uuz-pk9g2wxc8p.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\mgtr731rih-ft3s53vfgj.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmt07yy4aq-6cfz1n2cew.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kq0e44lun2-6pdc2jztkx.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4kxi32xmo4-493y06b0oq.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fructr9b4q-iovd86k7lj.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bzwwxd8sd6-vr1egmr9el.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\c1tte09kk7-kbrnm935zg.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pexpjdyt70-jj8uyg4cgr.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1p4k1x2qdc-y7v9cxd14o.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\h1z0x083e9-notf2xhcfb.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ecm8o6n329-h1s4sie4z3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ewu3xpckx2-63fj8s7r0e.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\v8ocyp0hnc-0j3bgjxly4.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\2kkky0zxiy-47otxtyo56.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmyxcv1p5s-4v8eqarkd7.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1koc4sqasp-356vix0kms.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4o09ermb8b-83jwlth58m.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1vxanjevpy-mrlpezrjn3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bjs1j5n6es-lzl9nlhx6b.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\k7h955pd83-ag7o75518u.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\z45uchb35z-x0q3zqp4vz.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vzcavsgg4v-0i3buxo5is.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\n9zp4azqpl-o1o13a6vjx.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1qwjitkgpt-ttgo8qnofa.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bk6in8w818-2z0ns9nrw6.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1wuszmmj8o-muycvpuwrr.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ph07i5l3td-87fc7y1x7t.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thm97mg1qq-mlv21k5csn.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\55qy6ekran-l0ktcafq68.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\t8hcou7f2c-l0ktcafq68.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.build.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\refint\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.genruntimeconfig.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\IntroduccionRazor_ASPNet\obj\Debug\net9.0\ref\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.endpoints.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.runtime.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.exe
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.deps.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.runtimeconfig.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfoInputs.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfo.cs
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.csproj.CoreCompileInputs.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cs
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\bundle\IntroduccionRazor_ASPNet.styles.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\projectbundle\IntroduccionRazor_ASPNet.bundle.scp.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thpmz3kaxo-b9sayid5wm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\p8ulu5sozx-61n19gt1b8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f3zzunwlx6-xtxxf3hu2r.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\0bhvv2ykru-bqjiyaj88i.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ai7v7q2nqx-c2jlpeoesf.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ufqsej0jpd-erw9l3u2r3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\spbrslgx9s-aexeepp0ev.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gbqtkv45k5-d7shbmvgxk.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f80pntxlft-ausgxo2sd3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\io6r2opr8l-k8d9w2qqmf.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3d435ng3p4-cosvhxvwiu.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\s8se4ftsd0-ub07r2b239.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vxd0a3vdzo-fvhpjtyr6v.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\hxf8hk5ahn-b7pk76d08c.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\dxzb4rsh4m-fsbi9cje9m.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\a69nac6mnp-rzd6atqjts.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\qhjyj6p3ff-ee0r1s7dh0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4lzt0go8zx-dxx9fxp4il.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pq11nnhm83-jd9uben2k1.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\eg7mipmkma-khv3u5hwcm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cgvfr3i0qu-r4e9w2rdcm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\xdmdeoauyx-lcd1t2u6c8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fau20yg856-c2oey78nd0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\8bk50zeg9w-tdbxkamptv.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\9rhq3fxgf3-j5mq2jizvt.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gg21ghcl1a-06098lyss8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fhepagenvz-nvvlpmu67g.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bvbyshbigl-s35ty4nyc5.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\oe0trt5kd8-pj5nd1wqec.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3n0wz3gmwz-46ein0sx1k.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\aq1tkx2w0m-v0zj4ognzu.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cn8dddjwox-37tfw0ft22.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\5c5wc20vli-hrwsygsryq.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\jwqdwt2uuz-pk9g2wxc8p.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\mgtr731rih-ft3s53vfgj.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmt07yy4aq-6cfz1n2cew.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kq0e44lun2-6pdc2jztkx.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4kxi32xmo4-493y06b0oq.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fructr9b4q-iovd86k7lj.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bzwwxd8sd6-vr1egmr9el.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\c1tte09kk7-kbrnm935zg.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pexpjdyt70-jj8uyg4cgr.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1p4k1x2qdc-y7v9cxd14o.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\h1z0x083e9-notf2xhcfb.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ecm8o6n329-h1s4sie4z3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ewu3xpckx2-63fj8s7r0e.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\v8ocyp0hnc-0j3bgjxly4.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\2kkky0zxiy-47otxtyo56.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmyxcv1p5s-4v8eqarkd7.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1koc4sqasp-356vix0kms.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4o09ermb8b-83jwlth58m.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1vxanjevpy-mrlpezrjn3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bjs1j5n6es-lzl9nlhx6b.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\k7h955pd83-ag7o75518u.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\z45uchb35z-x0q3zqp4vz.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vzcavsgg4v-0i3buxo5is.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\n9zp4azqpl-o1o13a6vjx.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1qwjitkgpt-ttgo8qnofa.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bk6in8w818-2z0ns9nrw6.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1wuszmmj8o-muycvpuwrr.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ph07i5l3td-87fc7y1x7t.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thm97mg1qq-mlv21k5csn.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\55qy6ekran-l0ktcafq68.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\t8hcou7f2c-l0ktcafq68.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.build.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IntroduccionRazor_ASPNet.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\refint\IntroduccionRazor_ASPNet.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.genruntimeconfig.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\IntroduccionRazor_ASPNet\obj\Debug\net9.0\ref\IntroduccionRazor_ASPNet.dll

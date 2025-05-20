@@ -1,0 +1,47 @@
+﻿@page
+@model IntroduccionRazor_ASPNet.Pages.Programa3Model
+@{
+}
+
+<h3>
+	Programa 3: Evaluar expresión (ax + by)^n
+</h3>
+<form method="post">
+    <p>
+        <label>
+            a: <input asp-for="A" type="number" step="any" />
+        </label>
+    </p>
+    <p>
+        <label>
+            b: <input asp-for="B" type="number" step="any" />
+        </label>
+    </p>
+    <p>
+        <label>
+            x: <input asp-for="X" type="number" step="any" />
+        </label>
+    </p>
+    <p>
+        <label>
+            y: <input asp-for="Y" type="number" step="any" />
+        </label>
+    </p>
+    <p>
+        <label>
+            n: <input asp-for="N" type="number" min="0" />
+        </label>
+    </p>
+    <p>
+        <input type="submit" value="Calcular" />
+    </p>
+</form>
+@if (Model.N > 0 || Model.Resultado != 0)
+{
+    <h4>
+        Resultado:
+    </h4>
+    <p>
+        (@Model.A*@Model.X + @Model.B*@Model.Y)^@Model.N = <strong>@Model.Resultado</strong>
+    </p>
+}

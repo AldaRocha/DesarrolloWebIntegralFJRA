@@ -1,0 +1,45 @@
+﻿@page
+@model IntroduccionRazor_ASPNet.Pages.Programa4Model
+@{
+}
+
+<h1>
+    Programa 4: Generador de Números Aleatorios
+</h1>
+<form method="get">
+    <button type="submit">
+        Generar números
+    </button>
+</form>
+@if (Model.Numeros.Any())
+{
+    <h4>
+        Números Generados:
+    </h4>
+    <p>
+        @string.Join(" ", Model.Numeros)
+    </p>
+
+    <h4>
+        Números Ordenados:
+    </h4>
+    <p>
+        @string.Join(" ", Model.NumerosOrdenados)
+    </p>
+
+    <h4>
+        Cálculos:
+    </h4>
+    <p>
+        <strong>Suma:</strong> @Model.Suma
+    </p>
+    <p>
+        <strong>Promedio:</strong> @Model.Promedio.ToString("F2")
+    </p>
+    <p>
+        <strong>Moda:</strong> @string.Join(", ", Model.Moda)
+    </p>
+    <p>
+        <strong>Mediana:</strong> @Model.Mediana
+    </p>
+}

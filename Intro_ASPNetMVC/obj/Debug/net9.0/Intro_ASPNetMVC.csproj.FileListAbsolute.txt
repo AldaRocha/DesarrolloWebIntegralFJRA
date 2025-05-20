@@ -1,0 +1,570 @@
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\appsettings.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.staticwebassets.runtime.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.staticwebassets.endpoints.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.exe
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.deps.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.runtimeconfig.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.pdb
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.AssemblyInfoInputs.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.AssemblyInfo.cs
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.csproj.CoreCompileInputs.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.RazorAssemblyInfo.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.RazorAssemblyInfo.cs
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\bundle\Intro_ASPNetMVC.styles.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\projectbundle\Intro_ASPNetMVC.bundle.scp.css
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wvpz2w3cn4-b9sayid5wm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\pq4l3tecoc-61n19gt1b8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\p8p9cfgkoe-xtxxf3hu2r.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\kga4mled7a-bqjiyaj88i.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2drxihgvq0-c2jlpeoesf.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ru2l2gf6rt-erw9l3u2r3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\zox1nd0z1z-aexeepp0ev.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wxbhazfs43-d7shbmvgxk.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wtte3mtbbv-ausgxo2sd3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\9flwg4adrs-k8d9w2qqmf.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\hwli2wootp-cosvhxvwiu.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\lphkxl3m7v-ub07r2b239.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\4t7pa8noe8-fvhpjtyr6v.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\79iuarmkhc-b7pk76d08c.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\rj847a8iys-fsbi9cje9m.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ha047t04gp-rzd6atqjts.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\x4ep7jzoe7-ee0r1s7dh0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\bva589g7j3-dxx9fxp4il.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cekgaaevd6-jd9uben2k1.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\8wa57yx6gs-khv3u5hwcm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\s05jxbzhbc-r4e9w2rdcm.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\11lmfbbmhd-lcd1t2u6c8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\s4h9t1qhnc-c2oey78nd0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\o32ev2h5um-tdbxkamptv.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wfa179xy0m-j5mq2jizvt.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cjrepo21oc-06098lyss8.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\bm63adimfh-nvvlpmu67g.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\9aen9r9bmn-s35ty4nyc5.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\h62q41xy32-pj5nd1wqec.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\buvqrdxl63-46ein0sx1k.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\sbr9q45w1q-v0zj4ognzu.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\n7cf2e6jph-37tfw0ft22.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\j2x94cm1jt-hrwsygsryq.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\p9wxbodz2p-pk9g2wxc8p.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\m6lrfra14c-ft3s53vfgj.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2g917tyewd-6cfz1n2cew.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ry1rbo1nlp-6pdc2jztkx.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\mxbkrvkx3b-493y06b0oq.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\321xpvz4sq-iovd86k7lj.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\m3diq7e7fa-vr1egmr9el.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\h0l6k1fsuo-kbrnm935zg.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cbzoi1a4qb-jj8uyg4cgr.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\qg79qft6gm-y7v9cxd14o.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\vicyqhpxk3-notf2xhcfb.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\dt97tnzy44-h1s4sie4z3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\io00cw19pk-63fj8s7r0e.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\0zmrac9m5s-0j3bgjxly4.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\c39rnpb40s-47otxtyo56.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\7f6uc51oet-4v8eqarkd7.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\noodqd4l5q-356vix0kms.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ybhbzjc7l9-83jwlth58m.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\6ycehqduji-mrlpezrjn3.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\1fj1avrek7-lzl9nlhx6b.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\83lyiikdfk-ag7o75518u.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2aio53v2ep-x0q3zqp4vz.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\uqnowj0g9w-0i3buxo5is.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\tc2rg50pop-o1o13a6vjx.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\nqzt1fgg7i-ttgo8qnofa.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\f1uuwlaei4-2z0ns9nrw6.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\tcju02x5v8-muycvpuwrr.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2gyaracesm-87fc7y1x7t.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\7u8w83x17z-mlv21k5csn.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\sx40v90znw-ivwxm31di0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\qhlt2xy2vl-ivwxm31di0.gz
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.Intro_ASPNetMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.Intro_ASPNetMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.build.Intro_ASPNetMVC.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Intro_ASPNetMVC.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Intro_ASPNetMVC.props
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\refint\Intro_ASPNetMVC.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.pdb
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.genruntimeconfig.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\ref\Intro_ASPNetMVC.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.csproj.AssemblyReference.cache
+C:\Users\rocha\OneDrive\Escritorio\UTL\9no Cuatri\Desarrollo Web Integral\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_AS.FDF1A1BA.Up2Date
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\appsettings.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.staticwebassets.endpoints.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.staticwebassets.runtime.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.exe
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.deps.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.runtimeconfig.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Intro_ASPNetMVC.pdb
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Humanizer.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.csproj.AssemblyReference.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.AssemblyInfoInputs.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.AssemblyInfo.cs
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.csproj.CoreCompileInputs.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.RazorAssemblyInfo.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.RazorAssemblyInfo.cs
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\bundle\Intro_ASPNetMVC.styles.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\scopedcss\projectbundle\Intro_ASPNetMVC.bundle.scp.css
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wvpz2w3cn4-b9sayid5wm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\pq4l3tecoc-61n19gt1b8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\p8p9cfgkoe-xtxxf3hu2r.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\kga4mled7a-bqjiyaj88i.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2drxihgvq0-c2jlpeoesf.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ru2l2gf6rt-erw9l3u2r3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\zox1nd0z1z-aexeepp0ev.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wxbhazfs43-d7shbmvgxk.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wtte3mtbbv-ausgxo2sd3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\9flwg4adrs-k8d9w2qqmf.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\hwli2wootp-cosvhxvwiu.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\lphkxl3m7v-ub07r2b239.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\4t7pa8noe8-fvhpjtyr6v.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\79iuarmkhc-b7pk76d08c.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\rj847a8iys-fsbi9cje9m.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ha047t04gp-rzd6atqjts.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\x4ep7jzoe7-ee0r1s7dh0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\bva589g7j3-dxx9fxp4il.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cekgaaevd6-jd9uben2k1.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\8wa57yx6gs-khv3u5hwcm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\s05jxbzhbc-r4e9w2rdcm.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\11lmfbbmhd-lcd1t2u6c8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\s4h9t1qhnc-c2oey78nd0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\o32ev2h5um-tdbxkamptv.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\wfa179xy0m-j5mq2jizvt.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cjrepo21oc-06098lyss8.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\bm63adimfh-nvvlpmu67g.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\9aen9r9bmn-s35ty4nyc5.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\h62q41xy32-pj5nd1wqec.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\buvqrdxl63-46ein0sx1k.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\sbr9q45w1q-v0zj4ognzu.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\n7cf2e6jph-37tfw0ft22.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\j2x94cm1jt-hrwsygsryq.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\p9wxbodz2p-pk9g2wxc8p.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\m6lrfra14c-ft3s53vfgj.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2g917tyewd-6cfz1n2cew.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ry1rbo1nlp-6pdc2jztkx.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\mxbkrvkx3b-493y06b0oq.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\321xpvz4sq-iovd86k7lj.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\m3diq7e7fa-vr1egmr9el.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\h0l6k1fsuo-kbrnm935zg.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\cbzoi1a4qb-jj8uyg4cgr.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\qg79qft6gm-y7v9cxd14o.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\vicyqhpxk3-notf2xhcfb.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\dt97tnzy44-h1s4sie4z3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\io00cw19pk-63fj8s7r0e.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\0zmrac9m5s-0j3bgjxly4.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\c39rnpb40s-47otxtyo56.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\7f6uc51oet-4v8eqarkd7.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\noodqd4l5q-356vix0kms.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\ybhbzjc7l9-83jwlth58m.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\6ycehqduji-mrlpezrjn3.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\1fj1avrek7-lzl9nlhx6b.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\83lyiikdfk-ag7o75518u.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2aio53v2ep-x0q3zqp4vz.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\uqnowj0g9w-0i3buxo5is.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\tc2rg50pop-o1o13a6vjx.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\nqzt1fgg7i-ttgo8qnofa.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\f1uuwlaei4-2z0ns9nrw6.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\tcju02x5v8-muycvpuwrr.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\2gyaracesm-87fc7y1x7t.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\7u8w83x17z-mlv21k5csn.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\sx40v90znw-ivwxm31di0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\compressed\qhlt2xy2vl-ivwxm31di0.gz
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.Intro_ASPNetMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.Intro_ASPNetMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.build.Intro_ASPNetMVC.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Intro_ASPNetMVC.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Intro_ASPNetMVC.props
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_AS.FDF1A1BA.Up2Date
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\refint\Intro_ASPNetMVC.dll
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.pdb
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\Intro_ASPNetMVC.genruntimeconfig.cache
+C:\Users\rocha\Documents\ProyectosDotNet9no\Intro_ASPNetMVC\obj\Debug\net9.0\ref\Intro_ASPNetMVC.dll

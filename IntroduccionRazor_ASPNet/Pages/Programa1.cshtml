@@ -1,0 +1,60 @@
+﻿@page
+@model IntroduccionRazor_ASPNet.Pages.Programa1Model
+@{
+}
+
+<h3>
+	Programa 1: Calculo de IMC
+</h3>
+<form method="post" lang="en">
+	<p>
+		Peso:
+		<input type="text" asp-for="Peso" />
+	</p>
+	<p>
+		Altura:
+		<input type="text" asp-for="Altura" />
+	</p>
+	<p>
+		<input type="submit" value="Calcular" />
+	</p>
+</form>
+@switch(Model.IMC)
+{
+	case decimal n when n < 18:
+		<h1>
+			Peso bajo
+		</h1>
+		<img src="img/pesobajo.png" alt="Imagen sobre el IMC"/>
+		break;
+	case decimal n when n >= 18 && n < 25:
+		<h1>
+			Peso normal
+		</h1>
+		<img src="img/pesonormal.jpg" alt="Imagen sobre el IMC"/>
+		break;
+	case decimal n when n >= 25 && n < 27:
+		<h1>
+			Sobrepeso
+		</h1>
+		<img src="img/sobrepeso.jpg" alt="Imagen sobre el IMC"/>
+		break;
+	case decimal n when n >= 27 && n < 30:
+		<h1>
+			Obesidad grado I
+		</h1>
+		<img src="img/obesidadgradoi.jpg" alt="Imagen sobre el IMC"/>
+		break;
+	case decimal n when n >= 30 && n < 40:
+		<h1>
+			Obesidad grado II
+		</h1>
+		<img src="img/obesidadgradoii.jpg" alt="Imagen sobre el IMC"/>
+		break;
+	case decimal n when n >= 40:
+		<h1>
+			Obesidad grado III
+		</h1>
+		<img src="img/obesidadgradoiii.jpg" alt="Imagen sobre el IMC"/>
+		break;
+}

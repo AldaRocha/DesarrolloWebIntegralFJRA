@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "ListadoProveedores";
+}
+
+<h1>ListadoProveedores</h1>
+
+@{
+    string proveedores = ViewBag.Proveedores;
+    string saludo = ViewBag.Hola;
+    string[] lista = proveedores.Split(",");
+}
+
+<ul>
+    @foreach(var p in lista){
+        <li>
+            @p
+        </li>
+    }
+</ul>
+
+<h1>
+    @saludo
+</h1>
