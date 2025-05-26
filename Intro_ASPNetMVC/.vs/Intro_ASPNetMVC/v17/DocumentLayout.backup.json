@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9745316B-9AF6-4B49-A0FB-85E59A31DF08}|Intro_ASPNetMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\intro_aspnetmvc\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,12 +55,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T02:07:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ListadoClientes.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Clientes\\ListadoClientes.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\ListadoClientes.cshtml",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Clientes\\ListadoClientes.cshtml",
               "RelativeToolTip": "Views\\Clientes\\ListadoClientes.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T00:49:56.403Z",
               "EditorCaption": ""
@@ -71,7 +88,8 @@
               "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T00:38:45.904Z"
+              "WhenOpened": "2025-05-20T00:38:45.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,13 +99,14 @@
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:37:15.76Z"
+              "WhenOpened": "2025-05-20T00:37:15.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
@@ -99,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ListadoProveedores.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Proveedores\\ListadoProveedores.cshtml",
               "RelativeDocumentMoniker": "Views\\Proveedores\\ListadoProveedores.cshtml",
@@ -111,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProveedoresController.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Controllers\\ProveedoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProveedoresController.cs",
@@ -123,19 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "InicioController.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Controllers\\InicioController.cs",
               "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Controllers\\InicioController.cs",
               "RelativeToolTip": "Controllers\\InicioController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:04:34.166Z"
+              "WhenOpened": "2025-05-20T00:04:34.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -147,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",

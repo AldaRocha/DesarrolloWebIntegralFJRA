@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroduccionRazor_ASPNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c76c1efa9ceba2c62339016463f11c5bfe68574")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroduccionRazor_ASPNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroduccionRazor_ASPNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

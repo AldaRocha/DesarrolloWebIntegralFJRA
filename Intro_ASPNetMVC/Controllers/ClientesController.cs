@@ -33,5 +33,27 @@ namespace Intro_ASPNetMVC.Controllers
         {
             return View(listaClientes);
         }
+
+        // GET: Clientes/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Clientes/Create
+        [HttpPost]
+        public ActionResult Create(Cliente cliente)
+        {
+            try
+            {
+                // Agregamos el nuevo cliente a la lista
+                listaClientes.Add(cliente);
+                return RedirectToAction("ListadoClientes");
+            }
+            catch (Exception)
+            {
+                return View();
+            }
+        }
     }
 }
