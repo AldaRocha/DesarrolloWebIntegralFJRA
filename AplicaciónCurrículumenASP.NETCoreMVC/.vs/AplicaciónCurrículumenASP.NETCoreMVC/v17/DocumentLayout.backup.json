@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\views\\laboral\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:views\\laboral\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\views\\academica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:views\\academica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\controllers\\laboralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:controllers\\laboralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\controllers\\academicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:controllers\\academicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\aplicaci\u00F3ncurr\u00EDculumenasp.netcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86B93464-2F4E-45A4-AD2E-D00FBAA4F592}|Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T04:50:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T04:55:14.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcademicaController.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Controllers\\AcademicaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AcademicaController.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Controllers\\AcademicaController.cs",
+              "RelativeToolTip": "Controllers\\AcademicaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:43:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Academica\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Academica\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Academica\\Index.cshtml",
+              "RelativeToolTip": "Views\\Academica\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T05:49:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaboralController.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Controllers\\LaboralController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LaboralController.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Controllers\\LaboralController.cs",
+              "RelativeToolTip": "Controllers\\LaboralController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:06:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Laboral\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Laboral\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Aplicaci\u00F3nCurr\u00EDculumenASP.NETCoreMVC\\Views\\Laboral\\Index.cshtml",
+              "RelativeToolTip": "Views\\Laboral\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T06:06:46.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

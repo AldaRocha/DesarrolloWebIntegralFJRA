@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AplicaciónCurrículumenASP.NETCoreMVC.props" />
+</Project>
