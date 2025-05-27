@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie_IDGS902.Data;
@@ -20,12 +16,16 @@ namespace MvcMovie_IDGS902.Controllers
         }
 
         // GET: Movies
-        public async Task<IActionResult> Index(string searchString)
+        public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
             if (_context.Movie == null)
             {
                 return Problem("Entity set is null");
             }
+
+            // Consultamos la lista de géneros utilizando LINQ
+            IQueryable<string> genreQuery = from m in _context.Movie orderby m.Genre select m.Genre;
+
             // Consultamos todas las peliculas en la tabla Movie mediante el lenguaje de consultas LINQ
             var movies = from m in _context.Movie select m;
 
@@ -33,8 +33,22 @@ namespace MvcMovie_IDGS902.Controllers
             if (!String.IsNullOrEmpty(searchString))
             {
                 movies = movies.Where(p => p.Title!.ToUpper().Contains(searchString.ToUpper()));
-            } 
-            return View(await movies.ToListAsync());
+            }
+
+            // Filtramos aquellas películas que coinciden con el género seleccionado
+            if (!String.IsNullOrEmpty(movieGenre))
+            {
+                movies = movies.Where(p => p.Genre == movieGenre);
+            }
+
+            // Creamos un nuevo objeto viewModel
+            var movieGenreVM = new MovieGenreViewModel
+            {
+                Genres = new SelectList(await genreQuery.Distinct().ToListAsync()),
+                Movies = await movies.ToListAsync()
+            };
+
+            return View(movieGenreVM);
         }
 
         // GET: Movies/Details/5
