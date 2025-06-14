@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\arreglos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\arreglos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\a07sumanumeros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\a07sumanumeros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\a04ciclos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\a04ciclos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\a03condicionales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\a03condicionales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\a02sintaxisbasica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\a02sintaxisbasica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\a01holamundorazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\a01holamundorazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa2.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\introduccionrazor_aspnet\\pages\\programa1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB5C4F24-9275-477C-AAB8-D2035A35F1E5}|IntroduccionRazor_ASPNet.csproj|solutionrelative:pages\\programa1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,11 +70,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Arreglos.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Arreglos.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Arreglos.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Arreglos.cshtml",
+              "RelativeToolTip": "Pages\\Arreglos.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:15:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A07SumaNumeros.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A07SumaNumeros.cshtml",
+              "RelativeDocumentMoniker": "Pages\\A07SumaNumeros.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A07SumaNumeros.cshtml",
+              "RelativeToolTip": "Pages\\A07SumaNumeros.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:14:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A04Ciclos.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A04Ciclos.cshtml",
+              "RelativeDocumentMoniker": "Pages\\A04Ciclos.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A04Ciclos.cshtml",
+              "RelativeToolTip": "Pages\\A04Ciclos.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:12:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A03Condicionales.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A03Condicionales.cshtml",
+              "RelativeDocumentMoniker": "Pages\\A03Condicionales.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A03Condicionales.cshtml",
+              "RelativeToolTip": "Pages\\A03Condicionales.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:10:28.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A02SintaxisBasica.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A02SintaxisBasica.cshtml",
+              "RelativeDocumentMoniker": "Pages\\A02SintaxisBasica.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A02SintaxisBasica.cshtml",
+              "RelativeToolTip": "Pages\\A02SintaxisBasica.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:10:10.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A01HolaMundoRazor.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A01HolaMundoRazor.cshtml",
+              "RelativeDocumentMoniker": "Pages\\A01HolaMundoRazor.cshtml",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\A01HolaMundoRazor.cshtml",
+              "RelativeToolTip": "Pages\\A01HolaMundoRazor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T17:10:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -62,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Programa4.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa4.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Programa4.cshtml.cs",
@@ -74,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Programa4.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa4.cshtml",
               "RelativeDocumentMoniker": "Pages\\Programa4.cshtml",
@@ -82,12 +178,11 @@
               "RelativeToolTip": "Pages\\Programa4.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T07:07:54.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:07:54.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Programa3.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa3.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Programa3.cshtml.cs",
@@ -99,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Programa3.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa3.cshtml",
               "RelativeDocumentMoniker": "Pages\\Programa3.cshtml",
@@ -111,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Programa2.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa2.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Programa2.cshtml.cs",
@@ -123,19 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Programa2.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa2.cshtml",
               "RelativeDocumentMoniker": "Pages\\Programa2.cshtml",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa2.cshtml",
               "RelativeToolTip": "Pages\\Programa2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T07:05:08.699Z"
+              "WhenOpened": "2025-05-20T07:05:08.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Programa1.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa1.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Programa1.cshtml.cs",
@@ -147,13 +243,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Programa1.cshtml",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa1.cshtml",
               "RelativeDocumentMoniker": "Pages\\Programa1.cshtml",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\IntroduccionRazor_ASPNet\\Pages\\Programa1.cshtml",
               "RelativeToolTip": "Pages\\Programa1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T07:03:46.433Z"
             }

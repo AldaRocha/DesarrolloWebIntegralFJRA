@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ExamenPracticoPrimerParcial.Models.Candidato>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Votos)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Partido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Votos)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CandidatoId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CandidatoId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CandidatoId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<a class="mt-3" asp-area="" asp-controller="Candidato" asp-action="Votar">
+    Votar
+</a>

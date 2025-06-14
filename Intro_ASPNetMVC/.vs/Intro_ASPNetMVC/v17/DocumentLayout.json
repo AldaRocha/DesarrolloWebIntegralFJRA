@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
               "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Intro_ASPNetMVC\\Views\\Clientes\\Create.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-22T02:07:45.938Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Views\\Clientes\\ListadoClientes.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T00:49:56.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:49:56.403Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T00:38:45.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:38:45.904Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:37:15.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:37:15.76Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Controllers\\InicioController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:04:34.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:04:34.166Z"
             },
             {
               "$type": "Document",

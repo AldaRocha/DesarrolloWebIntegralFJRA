@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyIykBw1XHs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\Todo_WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rocha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\rocha\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

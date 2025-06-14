@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C184FD-F827-41F4-A548-2E49E6D7AA1C}|Todo_WebAPI.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\todo_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C184FD-F827-41F4-A548-2E49E6D7AA1C}|Todo_WebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C184FD-F827-41F4-A548-2E49E6D7AA1C}|Todo_WebAPI.csproj|c:\\users\\rocha\\documents\\proyectosdotnet9no\\todo_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C184FD-F827-41F4-A548-2E49E6D7AA1C}|Todo_WebAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:44:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\ProyectosDotNet9no\\Todo_WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:42:50.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
