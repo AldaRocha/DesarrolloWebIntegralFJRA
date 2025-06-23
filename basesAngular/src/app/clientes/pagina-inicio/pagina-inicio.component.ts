@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ICliente } from '../interfaces/cliente';
+import { ClientesService } from '../clientes.service';
 
 @Component({
   selector: 'app-pagina-inicio',
@@ -8,13 +8,7 @@ import { ICliente } from '../interfaces/cliente';
   styleUrl: './pagina-inicio.component.css'
 })
 export class PaginaInicioComponent {
+  constructor(private clientesService: ClientesService){
 
-  nuevo: ICliente = {
-    nombre: "Carlos",
-    credito: 5000
-  }
-
-  agregar(){
-    console.log("Llamada al método agregar");
   }
 }

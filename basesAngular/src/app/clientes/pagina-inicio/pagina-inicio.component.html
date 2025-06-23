@@ -4,34 +4,10 @@
 
 <div class="row">
     <div class="col">
-        <h3>
-            Clientes
-        </h3>
-        <hr/>
-        <ul>
-            <li>
-                Carlos - 15000
-            </li>
-            <li>
-                Carmen - 4500
-            </li>
-            <li>
-                Omar - 2000
-            </li>
-        </ul>
+        <app-listado-clientes></app-listado-clientes>
     </div>
 
     <div class="col">
-        <h3>
-            Agregar
-        </h3>
-        <hr/>
-        <form (submit)="agregar()">
-            <input type="text" placeholder="Nombre" name="nombre" [(ngModel)]="nuevo.nombre"/>
-            <input type="number" placeholder="Crédito" name="credito" [(ngModel)]="nuevo.credito"/>
-            <button type="submit">
-                Agregar
-            </button>
-        </form>
+        <app-agregar-cliente></app-agregar-cliente>
     </div>
 </div>
