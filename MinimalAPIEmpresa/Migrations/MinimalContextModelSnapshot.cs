@@ -124,6 +124,27 @@ namespace MinimalAPIEmpresa.Migrations
                     b.ToTable("EmpleadoDepartamento");
                 });
 
+            modelBuilder.Entity("MinimalAPIEmpresa.Models.UsuarioModel", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<string>("contrasenia")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("usuario")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("UsuarioModel");
+                });
+
             modelBuilder.Entity("MinimalAPIEmpresa.Models.Empleado", b =>
                 {
                     b.HasOne("MinimalAPIEmpresa.Models.Ciudad", "Ciudad")

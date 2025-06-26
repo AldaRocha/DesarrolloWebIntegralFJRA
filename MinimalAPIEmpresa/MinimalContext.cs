@@ -13,6 +13,7 @@ namespace MinimalAPIEmpresa
         public DbSet<Departamento> Departamento { get; set; }
         public DbSet<Empleado> Empleado { get; set; }
         public DbSet<EmpleadoDepartamento> EmpleadoDepartamento { get; set; }
+        public DbSet<UsuarioModel> UsuarioModel { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
