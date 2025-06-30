@@ -16,6 +16,7 @@ public partial class Bdtareas902Context : DbContext
     }
 
     public virtual DbSet<Tarea> Tareas { get; set; }
+    public virtual DbSet<Empleado> Empleados { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

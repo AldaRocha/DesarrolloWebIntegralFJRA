@@ -1,0 +1,13 @@
+<div class="container mt-4">
+    <app-titulo></app-titulo>
+    <app-formulario
+        [empleadoId]="selectedEmpleadoId"
+        (guardado)="onGuardado()"
+        (cancelado)="onCancelado()"
+    ></app-formulario>
+    <app-listado
+        [refrescar]="refrescarListado"
+        (editar)="onEditar($event)"
+        (eliminado)="onGuardado()"
+    ></app-listado>
+</div>

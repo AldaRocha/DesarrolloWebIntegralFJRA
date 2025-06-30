@@ -1,0 +1,49 @@
+<form (ngSubmit)="guardar()" class="mb-4">
+    <div class="mb-3">
+        <label>
+            Nombre:
+        </label>
+        <input [(ngModel)]="empleado.nombre" name="nombre" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label>
+            Correo:
+        </label>
+        <input [(ngModel)]="empleado.correo" name="correo" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label>
+            Teléfono:
+        </label>
+        <input [(ngModel)]="empleado.telefono" name="telefono" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label>
+            Fecha de Nacimiento:
+        </label>
+        <input type="date" [(ngModel)]="empleado.fechaNacimiento" name="fechaNacimiento" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label>
+            Sexo:
+        </label>
+        <div>
+            <label>
+                <input type="radio" [(ngModel)]="empleado.sexo" name="sexo" value="Masculino" />
+                &nbsp;
+                Masculino
+            </label>
+            <label class="ms-3">
+                <input type="radio" [(ngModel)]="empleado.sexo" name="sexo" value="Femenino" />
+                &nbsp;
+                Femenino
+            </label>
+        </div>
+    </div>
+    <button class="btn btn-success me-2" type="submit">
+        Guardar
+    </button>
+    <button class="btn btn-secondary" type="button" (click)="cancelar()">
+        Cancelar
+    </button>
+</form>

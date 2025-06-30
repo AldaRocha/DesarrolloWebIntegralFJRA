@@ -1,0 +1,57 @@
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Numero de empleado
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Correo
+            </th>
+            <th>
+                Teléfono
+            </th>
+            <th>
+                Fecha Nacimiento
+            </th>
+            <th>
+                Sexo
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let e of empleados; let i = index">
+            <td>
+                {{ e.empleadoId }}
+            </td>
+            <td>
+                {{ e.nombre }}
+            </td>
+            <td>
+                {{ e.correo }}
+            </td>
+            <td>
+                {{ e.telefono }}
+            </td>
+            <td>
+                {{ e.fechaNacimiento | date:'dd/MM/yyyy' }}
+            </td>
+            <td>
+                {{ e.sexo }}
+            </td>
+            <td>
+                <button class="btn btn-warning btn-sm me-1" (click)="editarEmpleado(e.empleadoId)">
+                    Editar
+                </button>
+                <button class="btn btn-danger btn-sm" (click)="eliminar(e.empleadoId)">
+                    Eliminar
+                </button>
+            </td>
+        </tr>
+    </tbody>
+</table>
