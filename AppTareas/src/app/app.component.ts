@@ -34,4 +34,52 @@ export class AppComponent {
       }
     })
   }
+
+  agregarTarea(){
+    const request: ITarea ={
+      tareaId: 0,
+      nombre: this.nombreTarea
+    }
+    this._tareasService.add(request).subscribe({
+      next: (data) => {
+        this.nombreTarea = "";
+        this.obtenerTareas();
+      }, error: (e) => {console.log(e)}
+    })
+  }
+
+  obtenerTarea(data: ITarea){
+    this.nombreTarea=data.nombre;
+    this.IDTareaActual=data.tareaId;
+  }
+
+  modificarTarea(){
+    const request: ITarea ={
+      tareaId: this.IDTareaActual,
+      nombre: this.nombreTarea
+    }
+    this._tareasService.update(request).subscribe({
+      next: (data) => {
+        this.nombreTarea = "";
+        this.IDTareaActual = 0;
+        this.obtenerTareas();
+      }, error: (e) => { console.log(e)}
+    })
+  }
+
+  guardar(){
+    if(this.IDTareaActual == 0){
+      this.agregarTarea();
+    } else{
+      this.modificarTarea();
+    }
+  }
+
+  eliminarTarea(tarea: ITarea){
+    this._tareasService.delete(tarea.tareaId).subscribe({
+      next: (data) => {
+        this.obtenerTareas();
+      }, error: (e) => {}
+    });
+  }
 }

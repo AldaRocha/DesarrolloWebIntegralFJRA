@@ -24,10 +24,10 @@ export class TareaService {
   }
 
   update(request: ITarea): Observable<void>{
-    return this.http.put<void>(`${this.apiUrl}/${request.tareaId}`, request);
+    return this.http.put<void>(`${this.apiUrl}${request.tareaId}`, request);
   }
 
   delete(TareaId: number): Observable<void>{
-    return this.http.delete<void>(`${this.apiUrl}/${TareaId}`);
+    return this.http.delete<void>(`${this.apiUrl}${TareaId}`);
   }
 }

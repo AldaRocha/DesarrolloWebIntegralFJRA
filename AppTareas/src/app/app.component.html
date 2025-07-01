@@ -1,7 +1,18 @@
-<div class="card">
+<div class="card">  
   <h1>
-    Aplicaci&oacute;n Tareas Angular
+    Aplicación Tareas Angular
   </h1>
+  <form>
+    <div class="form-group">
+      <label>
+        Tarea:
+      </label>
+      <input type="text" [(ngModel)]="nombreTarea" [ngModelOptions]="{standalone: true}" class="form-control" id="nombreTarea" placeholder="Nueva Tarea">
+    </div>
+    <button type="submit" class="btn btn-primary mt-4" (click)="guardar()">
+      Guardar
+    </button>
+  </form>
   <div class="container mt-4">
     <h1>
       Lista Tareas
@@ -9,7 +20,7 @@
     <table class="table">
       <thead>
         <h2 *ngIf="!isResultLoaded">
-          Cargando Datos...
+          Cargando Datos....
         </h2>
         <tr>
           <th scope="col">
@@ -19,7 +30,10 @@
             Tarea
           </th>
           <th scope="col">
-            &nbsp;
+            $nbp;
+          </th>
+          <th>
+
           </th>
         </tr>
       </thead>
@@ -32,7 +46,13 @@
             {{ tarea.nombre }}
           </td>
           <td>
-
+            <button type="button" class="btn btn-success" (click)="obtenerTarea(tarea)">
+              Editar
+            </button>
+            &nbsp;
+            <button type="button" class="btn btn-danger" (click)="eliminarTarea(tarea)">
+              Eliminar
+            </button>
           </td>
         </tr>
       </tbody>
