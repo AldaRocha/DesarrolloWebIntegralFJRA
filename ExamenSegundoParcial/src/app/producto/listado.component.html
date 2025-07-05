@@ -1,0 +1,16 @@
+<div class="bg-primary-subtle border border-dark p-3">
+    <div class="row justify-content-center">
+        <div *ngFor="let producto of itemsFiltrados" class="col-6 col-md-4 col-lg-3 text-center mb-4">
+            <img [src]="producto.imagen || 'https://via.placeholder.com/150'" class="img-thumbnail mb-2" style="width: 150px; height: 150px;" alt="Producto">
+            <div>
+                {{ producto.nombre }}
+            </div>
+            <div>
+                {{ producto.descripcion }}
+            </div>
+            <div>
+                &dollar;{{ producto.precio| number:'1.2-2' }}
+            </div>
+        </div>
+    </div>
+</div>
